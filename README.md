@@ -1,6 +1,6 @@
 Brand Tweet Generator
 Brand Tweet Generator is an AI-powered tool designed to analyze a brand's unique voice and generate 10 perfectly crafted tweets. Whether the objective is engagement, promotion, or brand awareness, this tool uses advanced AI tone-matching to ensure every tweet feels authentic to the brand.
-![alt text](screenshots/app_ui.png)
+
 
 Features
 Brand Voice Analysis: Automatically detects the tone, target audience, and key characteristics of any brand (e.g., Nike, Tesla, Duolingo).
@@ -69,3 +69,4 @@ Name: Sandi Saketh Reddy
 Reg No: 2022BCSE07AED635
 Organization: Alliance University
 Contact: ssandiBTECH22@ced.alliance.edu.in
+
