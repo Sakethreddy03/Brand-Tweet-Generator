@@ -42,7 +42,7 @@ An OpenAI API Key.
 Clone the repository to your local machine:
 code
 Bash
-git clone https://github.com/your-username/brand-tweet-generator.git
+git clone https://github.com/Sakethreddy03/brand-tweet-generator.git
 cd brand-tweet-generator
 3. Install Dependencies
 code
@@ -69,4 +69,5 @@ Name: Sandi Saketh Reddy
 Reg No: 2022BCSE07AED635
 Organization: Alliance University
 Contact: ssandiBTECH22@ced.alliance.edu.in
+
 
